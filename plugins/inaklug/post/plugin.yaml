@@ -1,0 +1,19 @@
+plugin:
+    name: 'inaklug.post::lang.plugin.name'
+    description: 'inaklug.post::lang.plugin.description'
+    author: inaklug
+    icon: oc-icon-newspaper-o
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Post
+        url: inaklug/post/post
+        icon: icon-archive
+    main-menu-item2:
+        label: Service
+        url: inaklug/post/service
+        icon: icon-asterisk
+    main-menu-item3:
+        label: Partner
+        url: inaklug/post/partner
+        icon: icon-chevron-circle-down

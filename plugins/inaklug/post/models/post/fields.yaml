@@ -1,0 +1,11 @@
+fields:
+    title:
+        label: Title
+        span: left
+        type: text
+        comment: 'inaklug.post::lang.plugin.name'
+    description:
+        label: Description
+        span: full
+        size: large
+        type: richeditor

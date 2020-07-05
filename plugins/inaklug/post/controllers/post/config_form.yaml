@@ -1,0 +1,10 @@
+name: Post
+form: $/inaklug/post/models/post/fields.yaml
+modelClass: Inaklug\Post\Models\Post
+defaultRedirect: inaklug/post/post
+create:
+    redirect: 'inaklug/post/post/update/:id'
+    redirectClose: inaklug/post/post
+update:
+    redirect: inaklug/post/post
+    redirectClose: inaklug/post/post

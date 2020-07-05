@@ -1,0 +1,5 @@
+columns:
+    title:
+        label: Titile
+        type: text
+        searchable: true

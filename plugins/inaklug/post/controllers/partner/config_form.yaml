@@ -1,0 +1,10 @@
+name: Partner
+form: $/inaklug/post/models/partner/fields.yaml
+modelClass: Inaklug\Post\Models\Partner
+defaultRedirect: inaklug/post/partner
+create:
+    redirect: 'inaklug/post/partner/update/:id'
+    redirectClose: inaklug/post/partner
+update:
+    redirect: inaklug/post/partner
+    redirectClose: inaklug/post/partner

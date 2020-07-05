@@ -1,0 +1,18 @@
+fields:
+    title:
+        label: Title
+        span: left
+        type: text
+    description:
+        label: Description
+        size: large
+        span: full
+        type: richeditor
+    reservation:
+        label: Reservation
+        span: left
+        type: text
+    url_reg:
+        label: 'Link Registration'
+        span: auto
+        type: text

@@ -1,0 +1,12 @@
+list: $/inaklug/post/models/partner/columns.yaml
+modelClass: Inaklug\Post\Models\Partner
+title: Partner
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'inaklug/post/partner/update/:id'

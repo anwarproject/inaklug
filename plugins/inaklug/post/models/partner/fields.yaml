@@ -1,0 +1,14 @@
+fields:
+    description:
+        label: Description
+        span: auto
+        type: text
+    images:
+        label: 'Partner Image'
+        span: full
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        type: fileupload

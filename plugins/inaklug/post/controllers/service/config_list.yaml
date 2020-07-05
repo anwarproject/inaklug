@@ -1,0 +1,12 @@
+list: $/inaklug/post/models/service/columns.yaml
+modelClass: Inaklug\Post\Models\Service
+title: Service
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'inaklug/post/service/update/:id'

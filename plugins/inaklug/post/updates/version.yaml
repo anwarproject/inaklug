@@ -1,0 +1,14 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table inaklug_post_'
+    - builder_table_create_inaklug_post_.php
+1.0.3:
+    - 'Updated table inaklug_post_'
+    - builder_table_update_inaklug_post_.php
+1.0.4:
+    - 'Created table inaklug_post_service'
+    - builder_table_create_inaklug_post_service.php
+1.0.5:
+    - 'Created table inaklug_post_partner'
+    - builder_table_create_inaklug_post_partner.php

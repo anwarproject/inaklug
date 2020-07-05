@@ -1,0 +1,4 @@
+title: Service
+modelClass: Inaklug\Post\Models\Service
+toolbar:
+    buttons: reorder_toolbar

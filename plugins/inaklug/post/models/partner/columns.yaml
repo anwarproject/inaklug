@@ -1,0 +1,5 @@
+columns:
+    description:
+        label: Description
+        type: text
+        searchable: true
